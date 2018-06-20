@@ -7,7 +7,7 @@
 // local functions
 static void printStrat (BM_BufferPool *const bm);
 
-// external functions
+
 void 
 printPoolContent (BM_BufferPool *const bm)
 {
