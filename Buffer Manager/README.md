@@ -4,10 +4,8 @@
 1] Personnel Information:
 
       Name				  	  CWID				     Email-id
-1) Shraddha Vijay Mahadik(Team Leader) 		A20385273 			smahadik1@hawk.iit.edu
-2) Amruta Ashok Pimple				A20380183 			apimple@hawk.iit.edu	
-3) Samruddhi Sunil Naik				A20381084 			snaik6@hawk.iit.edu
-4) Sumanth Gouru	 			A20379873 			sgouru@hawk.iit.edu
+1) Pooja Dusane						A20380124           pdusane@hawk.iit.edu
+2) Samruddhi Sunil Naik				A20381084 			snaik6@hawk.iit.edu
 
 2] File List:
 
